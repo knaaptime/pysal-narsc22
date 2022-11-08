@@ -127,7 +127,7 @@ This may take 10-15 minutes to complete depending on the speed of your network c
 Once this completes, you can activate the workshop environment with:
 
 ```bash
-conda activate pysal-workshop
+conda activate pysal-narsc22
 ```
 
 You are ready for the workshop at this point.
